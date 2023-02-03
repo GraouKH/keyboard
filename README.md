@@ -9,3 +9,5 @@ TODO :
   - money symbols missing
   - ~ letters missing
   - bunch of empty letters on alt gr to be fulfilled
+
+[dvorak](dvorak.png)
